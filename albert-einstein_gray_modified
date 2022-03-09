@@ -1,0 +1,11 @@
+import numpy as np
+import-matplotlib.pyplot as plt
+im=np.arrange (256)
+im=im[np.newaxis,:]
+im.shape
+949, 728
+im=np.repeat (im, 10, axis 0)
+im.shape
+plt.imshow(im.cmap ='gray')
+array (im=plt.imread(C:\Users\lilia\Documents\TBCC\Training\Computer Vision\Graphics('rC:\Users\lilia\Documents\TBCC\Training\Computer Vision\Graphics\albert-einstein_gray.jpg')
+im[300:400,400:100]=256 pH
